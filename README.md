@@ -1,1 +1,1 @@
-# Cafe_Order
+This project shows the different menu in a cafe and how customers react to the dishes available. I performed some data cleaning in this project. This project answered some questions like the favorite food in the Cafe, how expensive the dishes are? Clarification of dishes based on countries and the average price of each item in each category. This was made using SQL. 
